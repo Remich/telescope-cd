@@ -4,7 +4,7 @@ Fuzzy changing the current working directory.
 
 ## What does it do?
 
-Provides a picker for (telescope.nvim)[https://github.com/nvim-telescope/telescope.nvim], which lets you set the current working directory.  
+Provides a picker for [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim), which lets you set the current working directory.  
 
 All subdirectories of the project-directory including the project-directory act as items for the finder.  
 Even if the cwd is a subdirectory the parent directories are still items of the finder.  
